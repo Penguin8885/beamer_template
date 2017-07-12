@@ -4,6 +4,5 @@ rm slide.aux
 rm slide.dvi
 rm slide.log
 rm slide.nav
-rm slide.out
 rm slide.snm
 rm slide.toc
